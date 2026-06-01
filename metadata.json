@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Email Detection Model",
+  "description": "An interactive machine learning simulator training a supervised Naive Bayes classifier and heuristic rules engine to scan, evaluate, and audit phishing threats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
